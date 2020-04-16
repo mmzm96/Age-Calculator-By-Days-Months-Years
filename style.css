@@ -1,0 +1,29 @@
+.body {
+    background-image: url('c1.jpg');
+    background-size: 100% 100%;
+}
+
+.container-1 {
+    color: floralwhite;
+    border: 1 solid white;
+    text-align: center;
+}
+
+.flexi-container-1 {
+    display: flex;
+    border: 1px solid white;
+    padding: 10px;
+    justify-content: center;
+    width: 65%;
+    height: auto;
+    margin: auto;
+}
+
+.flexi-container-1 button {
+    padding: 10px;
+    font-size: x-large;
+}
+
+.flexi-container-1 div {
+    padding: 10px;
+}
