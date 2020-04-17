@@ -1,6 +1,6 @@
 # Age-Calculator-By-Days-Years
 
-Using this website,You can calculate your age by days or years...<br/>
+Using this website,You can calculate your age by days or Months years...<br/>
 Language uses: HTML,Javascript.<br/>
 For design: CSS, Bootsrap.<br/><br/>
 
