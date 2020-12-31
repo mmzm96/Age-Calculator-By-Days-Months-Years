@@ -7,7 +7,7 @@ function age() {
     var ageinyear = (2020 - year);
     var ageinmonth = (2020 - year) * 12;
     var h1 = document.createElement('h3');
-    var result = document.createTextNode(`Your birth yeaPr is ${year}.Your age is ${ageinyear} years or ${ageinmonth} months or ${age} days.`);
+    var result = document.createTextNode(`Your birth year is ${year}.Your age is ${ageinyear} years or ${ageinmonth} months or ${age} days.`);
     h1.setAttribute('id', 'age');
     h1.appendChild(result);
     document.getElementById('result').appendChild(h1);
